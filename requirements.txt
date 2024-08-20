@@ -1,6 +1,6 @@
 streamlit
-scikit-learn
+datetime
 yfinance
-pandas
-ta
-xgboost
+Prophet
+plot_plotly
+graph_objs
